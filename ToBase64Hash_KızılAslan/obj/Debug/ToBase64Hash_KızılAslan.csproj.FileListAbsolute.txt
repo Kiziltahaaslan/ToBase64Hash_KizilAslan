@@ -1,0 +1,10 @@
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\bin\Debug\ToBase64Hash_KızılAslan.exe.config
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\bin\Debug\ToBase64Hash_KızılAslan.exe
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\bin\Debug\ToBase64Hash_KızılAslan.pdb
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\obj\Debug\ToBase64Hash_KızılAslan.csprojAssemblyReference.cache
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\obj\Debug\ToBase64Hash_KızılAslan.Form1.resources
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\obj\Debug\ToBase64Hash_KızılAslan.Properties.Resources.resources
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\obj\Debug\ToBase64Hash_KızılAslan.csproj.GenerateResource.cache
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\obj\Debug\ToBase64Hash_KızılAslan.csproj.CoreCompileInputs.cache
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\obj\Debug\ToBase64Hash_KızılAslan.exe
+C:\Users\RTC9911\source\repos\ToBase64Hash_KızılAslan\ToBase64Hash_KızılAslan\obj\Debug\ToBase64Hash_KızılAslan.pdb
